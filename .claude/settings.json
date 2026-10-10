@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dvc version *)",
+      "Bash(git check-ignore *)"
+    ]
+  }
+}
