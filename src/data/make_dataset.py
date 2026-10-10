@@ -79,8 +79,8 @@ def process_data(
     # Add new columns
     df = add_new_columns(df, nb_victim, nb_vehicules)
 
-    # # Modify target variable
-    # df = modif_target_variable(df)
+    # Modify target variable
+    df = modif_target_variable(df)
 
     # # Replace values -1 and 0
     # df = replace_values(df)
