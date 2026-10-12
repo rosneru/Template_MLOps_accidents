@@ -5,3 +5,6 @@
     url = ../../dvc_remote
 ['remote "remote_nextcloud"']
     url = webdavs://cloud.tysw.de/remote.php/dav/files/share/DVC
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/rosneru/Template_MLOps_accidents.s3
